@@ -1,0 +1,44 @@
+@charset "utf-8";
+/*CSS DOCUMENT */
+p {
+	color: #008080;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 28px;
+}	
+	
+
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #F9966B;
+}
+
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #3B9C9C;
+}
+
+
+.pozadina{
+	background-color: #FAEBD7
+}
+.drugapozadina {
+	background-color: #B7CEEC
+}
+
+.trecapozadina{
+	background-color: #254117
+}
+
+.cetvrtapozadina{
+	background-image: url("Slike/slika21.jpeg");
+}
+a:link {
+	color: #7F525D;
+	background-color:#B7CEEC;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #B7CEEC;
